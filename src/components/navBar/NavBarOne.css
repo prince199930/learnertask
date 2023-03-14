@@ -1,0 +1,74 @@
+.navbar {
+    background-color: #F4C018;
+    height: 56px;
+}
+
+.mail {
+    width: 23.42px;
+    height: 18.4px;
+}
+
+.navbar-brand {
+    width: 195px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    text-transform: lowercase;
+    color: #FFFFFF;
+    margin-top: -10px;
+    margin-left: -13px;
+}
+
+.phone{
+    width: 19.66px;
+height: 19.66px;
+margin-top: -1px;
+}
+
+.number{
+    width: 177px;
+height: 22px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+color: #FFFFFF;
+margin-top: -6px;
+margin-left: -13px;
+
+}
+
+.fb{
+    width: 12.43px;
+height: 17.74px;
+
+}
+
+.inner{
+    column-gap: 35px;
+    align-items: center;
+}
+
+.login{
+    color: #F4C018;
+    text-decoration: none;
+    border: none;
+    width: 8vw;
+    border-radius: 19px;
+
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11.4289px;
+line-height: 14px;
+/* identical to box height */
+
+text-transform: capitalize;
+}

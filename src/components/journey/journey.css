@@ -1,0 +1,188 @@
+.journey{
+    display: flex;
+    justify-content: center;
+    margin-top: 11%;
+}
+
+.learnhr{
+    width: 853px;
+height: 2px;
+left: 466px;
+top: 2598px;
+
+background: #F29924;
+}
+
+.circle{
+    margin-left: 81%;
+    margin-top: -2%;
+}
+
+.learner{
+    margin-top: 4%;
+height: 34px;
+left: 120px;
+top: 2584px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #F4C018;
+}
+
+.outercon{
+    display: flex;
+    width: 94%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.innercon{
+    display: flex;
+    flex-direction: column;
+    margin-right: 8%;
+}
+
+.roadvalue{
+    text-align: start;
+    margin-left: 9%;
+}
+
+.road{
+    width: 584px;
+height: 64px;
+left: 120px;
+top: 2659px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 53.051px;
+line-height: 64px;
+text-transform: capitalize;
+
+color: #540375;
+}
+
+.roadinside{
+    width: 593px;
+height: 120px;
+left: 120px;
+top: 2745px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+text-transform: capitalize;
+
+color: #1D1D1D;
+
+}
+
+.countbox{
+    width: 70px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 17px;
+    
+    border-radius: 50%;
+    background: #F29924;
+    box-shadow: 0px 3.36115px 3.36115px rgba(0, 0, 0, 0.1);
+}
+
+.counting{
+    width: 21px;
+height: 51px;
+left: 35.29px;
+top: 20.17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 42.4343px;
+line-height: 51px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+    
+}
+
+.mainboxcount{
+    display: flex;
+    column-gap: 20%;
+    margin-bottom: 10%;
+    margin-left: 38px;
+}
+
+.containerjourney{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20%;
+}
+
+.perfect{
+    width: 276px;
+height: 38px;
+left: 131.93px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 31.5105px;
+line-height: 38px;
+text-transform: capitalize;
+
+color: #540375;
+}
+
+.foundation{
+    width: 369px;
+height: 28px;
+left: 131.93px;
+top: 52.94px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 23.5281px;
+line-height: 28px;
+text-transform: capitalize;
+
+color: #656565;
+
+}
+
+.perfectbox{
+    margin-left: -86px;
+}
+
+.foundation{
+    display: flex;
+    text-align: start;
+    margin-left: 20px;
+}
+
+.stepsbox{
+    border-radius: 25px;
+    border: 10px solid #F29924;
+    height: 110vh;
+    width: 41vw;
+}

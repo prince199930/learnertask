@@ -1,0 +1,135 @@
+.abouthive{
+    padding-top: 7%;
+width: 1440px;
+height: 9600px;
+left: 0px;
+top: 0px;
+
+background: #F2F2F2;
+}
+
+.abtstep{
+    margin-left: 3%;
+width: 271px;
+height: 34px;
+left: 120px;
+top: 846px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #F4C018;
+}
+.connect{
+        text-align: start;
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 16px;
+        gap: 6.09px;
+        width: 201.09px;
+        height: 49px;
+        left: 115px;
+        top: 538px;
+        
+        background: #F4C018;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        border-radius: 25px;
+        
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+}
+
+.lang-platform{
+        text-align: start;
+    width: 489px;
+height: 192px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 53.051px;
+line-height: 64px;
+text-transform: capitalize;
+
+color: #540375;
+
+}
+
+.base{
+    text-align: start;
+    width: 647px;
+height: 112px;
+left: 120px;
+top: 1139px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18.9923px;
+line-height: 150%;
+/* or 28px */
+
+text-transform: capitalize;
+
+color: #1D1D1D;
+}
+
+.list{
+    text-align: start;
+    width: 530px;
+height: 155px;
+left: 120px;
+top: 1281px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18.9923px;
+line-height: 165%;
+/* or 31px */
+
+text-transform: capitalize;
+
+color: #1D1D1D;
+
+}
+
+.innercon{
+    margin-left: 10%;
+    display: flex;
+    column-gap: 5%;
+    margin-left: 3%;
+}
+
+.aiglobe{
+    border-radius: 25px;
+    border: 10px solid #F29924;
+    margin-left: 146%;
+    height: 50vh;
+   width: 100%;
+}
+
+.circle{
+    position: relative;
+    margin-left: 146%;
+    margin-top: -41%;
+}
+
+.imagebox{
+    position: absolute;
+}

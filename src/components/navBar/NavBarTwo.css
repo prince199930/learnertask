@@ -1,0 +1,63 @@
+.main{
+width: 1440px;
+height: 100px;
+left: 0px;
+top: 0px;
+}
+.logo{
+    position: absolute;
+width: 114px;
+height: 66px;
+left: 118px;
+top: 17px;
+margin-left: -50px;
+}
+
+.allsection{
+    align-items: center;
+    margin-right: 4%;
+    column-gap: 2%;
+}
+
+.about{
+    width: 61px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-decoration-line: underline;
+text-transform: capitalize;
+
+color: #F4C018;
+}
+
+.route{
+    width: 67px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-transform: capitalize;
+
+color: #000000;
+}
+
+.why{
+    width: 100px;
+    height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-transform: capitalize;
+
+color: #000000;
+}

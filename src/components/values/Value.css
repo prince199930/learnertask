@@ -1,0 +1,155 @@
+.value{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hrvalue{
+    width: 212px;
+height: 2px;
+
+background: #F29924;
+}
+
+.paravalue{
+    margin-top: 5%;
+height: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #F4C018;
+}
+
+.descstake{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.stake{
+    margin-right: 500px;
+    width: 454px;
+height: 64px;
+left: 493px;
+top: 1734px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 53.051px;
+line-height: 64px;
+text-transform: capitalize;
+
+color: #540375;
+
+}
+
+.rightcircle{
+    position: relative;
+    margin-left: -78%;
+}
+
+.valuedesc{
+    display: flex;
+    justify-content: space-between;
+}
+
+.maincontainer{
+    position: absolute;
+    margin-top: -15%;;
+    margin-left: 10%;
+}
+
+.divout{
+    width: 23vw;
+    height: 40vh;
+    margin-right: 20px;
+    /* margin-left: 25px !important; */
+    margin-right: 25px !important;
+    margin-top: 20%;
+
+    background-color: #fff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 24.3573px;
+}
+
+
+
+.title{
+    width: 175px;
+height: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32.7228px;
+line-height: 40px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #540375;
+margin-left: -99%;
+}
+
+.tidesc{
+
+width: 315px;
+height: 192px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 19.4087px;
+line-height: 145%;
+text-align: left;
+margin-left: 18px;
+/* or 32px */
+
+text-transform: capitalize;
+
+color: #656565;
+}
+
+
+.newbtn{
+    margin-top: 2%;
+    margin-top: 3%;
+    margin-left: 45%;
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 6.09px;
+    width: 201.09px;
+    height: 61.09px;
+    left: 115px;
+    top: 538px;
+    
+    background: #F4C018;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 25px;
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+
+text-transform: capitalize;
+
+color: #FFFFFF;
+}

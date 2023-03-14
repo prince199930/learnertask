@@ -1,0 +1,64 @@
+.qnspara{
+height: 34px;
+margin-top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #F4C018;
+}
+
+.qnshr{
+    width: 212px;
+height: 2px;
+
+background: #F29924;
+}
+
+.frequently{
+    width: 700px;
+height: 64px;
+left: 500px;
+top: 6571px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 53.051px;
+line-height: 64px;
+text-transform: capitalize;
+
+color: #540375;
+
+}
+
+.qncard{
+    background: #552469;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+border-radius: 25px;
+width: 29rem;
+height: 22vh;
+}
+
+.qncardtitle{
+    width: 100%;
+    font-size: 1.2rem;
+    color:#fff;
+    margin-left: 0px;
+    display: flex;
+    text-align: initial;
+    height: 9vh;
+}
+
+
+.qncardtext{
+    color: #F4C018;
+    margin-left: 1px;
+    text-align: left;
+}

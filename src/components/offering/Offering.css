@@ -1,0 +1,170 @@
+.offerbox{
+    display: flex;
+    margin-top: 3%;
+}
+
+.offering{
+    margin-left: 6%;
+    margin-top: 4%;
+height: 34px;
+left: 120px;
+top: 5001px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #F4C018;
+
+
+}
+
+.offerhr{
+    width: 952px;
+height: 2px;
+left: 365px;
+top: 5017px;
+
+background: #F29924;
+}
+
+.explore{
+    width: 398px;
+height: 45px;
+left: 120px;
+top: 5076px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 37.4997px;
+line-height: 45px;
+text-transform: capitalize;
+
+color: #540375;
+
+}
+
+.mainexplore{
+    display: flex;
+    flex-direction: column;
+}
+.explorebox{
+    margin-left: 5%;
+}
+
+.rightcirc{
+    margin-top: -22%;
+    margin-left: -74%;
+}
+
+.offercirc{
+    margin-left: 70%;
+    margin-top: -7%;
+}
+
+.countdiv{
+    margin-left: -17px;
+    align-items: flex-start;
+    display: flex;
+    width: 41%;
+    justify-content: center;
+    text-align: center;
+    padding: 28px;
+    background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+border-radius: 25px;
+height: 22vh;
+}
+
+.offerdiv img{
+    width: 41%;
+    height: 70vh;
+border-radius: 25px;
+box-shadow: 0px 3.36115px 3.36115px rgba(0, 0, 0, 0.1);
+
+
+}
+
+.offerdiv{
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 6.4%;
+    row-gap: 20px;
+}
+
+.countbox{
+    width: 70px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 17px;
+    
+    border-radius: 50%;
+    background: #F29924;
+    box-shadow: 0px 3.36115px 3.36115px rgba(0, 0, 0, 0.1);
+}
+
+.counting{
+    width: 21px;
+height: 51px;
+left: 35.29px;
+top: 20.17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 42.4343px;
+line-height: 51px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+    
+}
+
+.descjourney{
+    display: flex;
+    flex-direction: column;
+    text-align: initial;
+    margin-left: 7%;
+}
+
+.pardesc{
+    width: 282px;
+height: 56px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 31.5105px;
+line-height: 38px;
+text-transform: capitalize;
+
+color: #540375;
+}
+
+.descpara{
+    width: 374px;
+height: 84px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 23.5281px;
+line-height: 28px;
+text-transform: capitalize;
+
+color: #656565;
+}

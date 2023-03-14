@@ -1,0 +1,130 @@
+.footerouter{
+    margin-top: 4%;
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 80px 140px;
+gap: 81px;
+
+width: 1435px;
+height: 407px;
+
+background: #4A164B;
+
+}
+
+.abt{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    text-align: initial;
+    margin-left: -19px;
+}
+
+.insideabt{
+    display: flex;
+}
+
+.abtpara{
+    width: 140px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+
+.abthr{
+    margin-left: -21px;
+    margin-top: 3%;
+}
+
+hr{
+    width: 47px;
+height: 4px;
+margin-top: 5%;
+
+background: #F29924;
+}
+
+.abtimg img{
+    width: 20px;
+    height: 20px;
+    margin-right: 12%;
+}
+
+.abtdesc{
+    width: 285px;
+height: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 147.02%;
+/* or 24px */
+
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+}
+
+.knowbtn{
+    margin-left: 0px;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 6.04838px 12.0968px;
+gap: 4.6px;
+
+width: 108.8px;
+height: 33.7px;
+
+background: #F29924;
+box-shadow: 0px 3.02419px 7.56048px rgba(0, 0, 0, 0.1);
+border-radius: 18.9012px;;
+border: none;
+}
+
+.footstyle{
+    width: 1440px;
+height: 4px;
+
+background: #F5C52B;
+}
+
+.infoot{
+    display: flex;
+    justify-content: center;
+    column-gap: 4%;
+   
+}
+
+
+.foottitle{
+    height: 24px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-transform: capitalize;
+
+color: #000000;
+}
+
+.line{
+
+width: 2px;
+height: 24px;
+
+background: #F5C52B;
+color: #F5C52B;
+}
